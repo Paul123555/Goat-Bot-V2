@@ -1,7 +1,7 @@
 {
-	"facebookAccount": {https://www.facebook.com/profile.php?id=61574413662720
-		"email": "charbelbouda5@gmail.com,
-		"password": "28739",
+	"facebookAccount": {
+		"email": "",
+		"password": "",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -14,11 +14,11 @@
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
 	"nickNameBot": "Goatbot",
 	"prefix": "#-",
-	"adminOnly": {61558743213025
+	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [61558743213025"
+	"adminBot": [
        "61558743213025"
 ],
 
